@@ -3,7 +3,7 @@ import "./style.css"
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'DeciReport',
+  title: 'Submit a Request to Conceirge',
   description: 'Showcase how to use Web3 tech with the Theta Network blockchain',
 }
 
